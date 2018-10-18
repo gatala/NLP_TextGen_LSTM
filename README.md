@@ -1,6 +1,6 @@
 # NLP with LSTM & TensorFlow
 
-This notebooks uses word embedding and LSTM to generate new text based on Alice in Wonderland. 
+This model uses word embedding and LSTM to generate new text based on Alice in Wonderland. 
 
 Here's a sample of the original text:  
 &nbsp;&nbsp;&nbsp;&nbsp;   _‘You are old, Father William,’ the young man said,  
@@ -14,7 +14,7 @@ The model generated prose that seems to have kept some of the original absurd st
 &nbsp;&nbsp;&nbsp;&nbsp;   understand you, and listen to me! i’ll soon make you  
 &nbsp;&nbsp;&nbsp;&nbsp;    dry enough! ’_  
  
- Worth noting that the text generator picks the highest probability word each time, adding some randomness _(see the Generate Next Word cell)_ produces interesting results.
+ Worth noting that the text generator picks the highest probability word each time. Adding some randomness _(see the Generate Next Word cell)_ produces interesting results.
  
  
  
