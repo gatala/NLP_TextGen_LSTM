@@ -3,7 +3,6 @@
 This notebooks uses word embedding and LSTM to generate new text based on Alice in Wonderland. 
 
 Here's a sample of the original text:
-
    _‘You are old, Father William,’ the young man said,
    ‘And your hair has become very white;
     And yet you incessantly stand on your head--
